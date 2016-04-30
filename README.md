@@ -17,4 +17,6 @@ android app                   folder containing:
                               
  Arduino_car_RC_bluetooth.aia contains source code that can be loaded into http://ai2.appinventor.mit.edu
                               (you have to log in with your google-account and then choose Projects -> Import from my computer (aia))
- Or just follow the link to the project on the MIT app inventor 2 gallery: ai2.appinventor.mit.edu/?galleryId=5963827980271616
+ Or just follow the link to the project on the MIT app inventor 2 gallery: http://ai2.appinventor.mit.edu/?galleryId=5963827980271616
+ 
+ 
