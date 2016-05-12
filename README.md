@@ -4,6 +4,9 @@ arduino Lego car model
 controlled over bluetooth 
 with android app developed with MIT app inventor
 
+Tutorial:
+https://www.hackster.io/Notthemarsian/take-control-over-lego-power-functions-ee0bfa
+
 
 Legocar_v3_bluetooth          folder containing Arduino Uno .ino file (source code)
 
